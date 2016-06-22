@@ -1,0 +1,66 @@
+a,
+#home-slider .caption h1 span, 
+#twitter-carousel .item span, 
+#footer .footer-bottom, 
+#single-portfolio .close-folio-item:hover, 
+.single-table.featured .btn.btn-primary, 
+.contact-info ul li a:hover, 
+#footer .footer-bottom a  {
+	color: #EE4B28;
+}
+
+.btn.btn-primary:hover,
+.btn-submit:hover {
+  background-color: #EE4B28;
+}
+
+a:hover, a:focus {
+	color: #EE4B28;
+}
+
+.main-nav, 
+.service-icon, 
+.progress-bar.progress-bar-primary, 
+.single-table.featured, 
+.btn.btn-primary, 
+.twitter-icon .fa-twitter, 
+.twitter-left-control:hover, .twitter-right-control:hover, 
+.post-icon, 
+.entry-header .date:after, 
+.btn-loadmore:hover, 
+.btn-submit,
+#footer, 
+.caption .btn-start:hover, 
+.left-control:hover, 
+.right-control:hover, 
+.folio-overview a:hover {
+	background-color:#EE4B28;
+}
+
+.twitter-left-control:hover, 
+.twitter-right-control:hover, 
+.btn-loadmore:hover  {
+	border: 1px solid #EE4B28;
+}
+
+.caption .btn-start:hover, 
+.left-control:hover, 
+.right-control:hover {
+	border-color: #EE4B28;
+}
+
+.twitter-icon .fa-twitter:after {
+	border-color: #EE4B28 transparent transparent;
+}
+
+.container_pasos_img{
+	background: #767676;
+	border-radius: 20px 20px 20px 20px; 
+	box-shadow: 3px 3px 1px rgba(50, 50, 50, 0.75);
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 10px;
+	padding-right:10px;
+	opacity: 0.7;
+	z-index: 1;
+}
